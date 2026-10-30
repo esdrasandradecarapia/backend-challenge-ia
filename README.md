@@ -157,3 +157,6 @@ curl "http://127.0.0.1:8000/books/1"
 - **`LIKE '%texto%'` não usa índice:** aceitável para uma biblioteca pequena; em volume grande
   seria necessário FTS5 ou outro mecanismo de busca.
 - Não há autenticação nem edição/remoção de livros, pois não foram pedidas.
+
+## Autor
+Esdras Andrade Carapía 2026
