@@ -1,0 +1,9 @@
+# Aplicação
+fastapi==0.162.0
+uvicorn==0.54.0
+SQLAlchemy==2.1.6
+pydantic-settings==2.16.2
+
+# Testes (httpx2 é exigido pelo TestClient do FastAPI)
+pytest==9.2.0
+httpx2==2.16.0
