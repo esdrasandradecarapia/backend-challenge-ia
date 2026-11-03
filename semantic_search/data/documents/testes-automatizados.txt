@@ -1,0 +1,3 @@
+Testes automatizados e TDD
+
+Testes automatizados verificam o comportamento do código sempre que ele muda, apontando regressões antes que cheguem ao usuário. Os testes unitários cobrem pedaços pequenos e isolados e rodam em segundos, enquanto os de integração conferem se as partes funcionam juntas. No desenvolvimento orientado a testes, o TDD, escreve-se primeiro um teste que falha, depois o código mínimo para fazê-lo passar e, por fim, refatora-se com a segurança de que nada quebrou.

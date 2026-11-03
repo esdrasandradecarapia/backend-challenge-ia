@@ -1,0 +1,3 @@
+Boas práticas para APIs REST
+
+Uma API REST expõe recursos por meio de URLs e usa os verbos HTTP para indicar a ação: GET para ler, POST para criar, PUT ou PATCH para atualizar e DELETE para remover. Os códigos de status comunicam o resultado, como 201 para criação, 404 para recurso inexistente e 422 para dados inválidos. Listagens grandes devem ser paginadas, e mudanças que quebram a compatibilidade pedem uma nova versão da API. Uma documentação clara, como a especificação OpenAPI, facilita a integração por outras equipes.

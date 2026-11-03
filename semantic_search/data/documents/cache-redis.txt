@@ -1,0 +1,3 @@
+Cache em memória com Redis
+
+O Redis guarda dados na memória RAM e responde em frações de milissegundo. É muito usado como cache: o resultado de uma operação cara, como uma consulta pesada ou o cálculo de um relatório, é armazenado e reaproveitado nas próximas requisições, aliviando a carga sobre o banco principal. Cada chave pode ter um tempo de expiração, e o maior desafio é decidir quando invalidar um valor para não servir informação desatualizada.

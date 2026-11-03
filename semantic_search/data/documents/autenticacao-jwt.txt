@@ -1,0 +1,3 @@
+Autenticação com tokens JWT
+
+Um token JWT é uma credencial assinada que o servidor entrega ao usuário depois do login. Nas requisições seguintes o cliente envia o token, e o servidor confere a assinatura sem precisar consultar uma sessão guardada. O conteúdo do token pode ser lido por quem o possui, por isso nunca se deve colocar senhas ou segredos nele. Tokens de acesso devem expirar rápido, e um token de renovação, de vida mais longa, permite obter novos sem pedir a senha outra vez.

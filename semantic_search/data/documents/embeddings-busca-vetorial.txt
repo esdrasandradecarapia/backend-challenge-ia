@@ -1,0 +1,3 @@
+Embeddings e busca vetorial
+
+Um embedding transforma um texto em uma lista de números, um vetor, de modo que textos com significados parecidos fiquem próximos no espaço, mesmo usando palavras diferentes. A busca vetorial aproveita isso: a consulta também vira um vetor, e o sistema devolve os documentos cujos vetores estão mais próximos, em geral medidos pela similaridade de cosseno. Bibliotecas como o FAISS organizam milhões de vetores para que essa comparação seja rápida.

@@ -1,0 +1,3 @@
+Código limpo e refatoração
+
+Código limpo é aquele que outra pessoa consegue ler e modificar sem esforço. Isso significa nomes que revelam a intenção, funções pequenas que fazem uma única coisa e ausência de trechos duplicados. A refatoração melhora a estrutura interna do código sem alterar o comportamento externo, e deve ser feita em passos curtos, apoiada por testes. Comentários servem para explicar o porquê de uma decisão, não para repetir o que o código já diz.

@@ -1,0 +1,3 @@
+Redes neurais profundas
+
+Uma rede neural é formada por camadas de unidades simples que combinam números e passam o resultado adiante. Durante o treinamento, o erro da previsão é propagado de volta pela rede e os pesos são ajustados aos poucos, em um processo chamado retropropagação. Com muitas camadas, a rede aprende representações cada vez mais abstratas, o que a torna eficaz em reconhecer imagens, transcrever fala e traduzir idiomas. Esse poder exige grande quantidade de dados e capacidade de processamento, normalmente em placas de vídeo.

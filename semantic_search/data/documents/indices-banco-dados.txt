@@ -1,0 +1,3 @@
+Índices em bancos de dados relacionais
+
+Sem um índice, o banco precisa ler a tabela inteira para encontrar as linhas que atendem a um filtro, e isso fica lento quando há milhões de registros. Um índice funciona como o sumário de um livro: uma estrutura auxiliar, geralmente uma árvore B, que permite localizar valores rapidamente. Em contrapartida, cada índice ocupa espaço e encarece as gravações, porque precisa ser atualizado a cada inserção. O plano de execução da consulta mostra se o índice está de fato sendo usado.

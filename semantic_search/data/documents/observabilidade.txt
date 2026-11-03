@@ -1,0 +1,3 @@
+Observabilidade de sistemas em produção
+
+Observabilidade é a capacidade de entender o que acontece dentro de um sistema a partir dos sinais que ele emite. Ela se apoia em três pilares: os logs registram eventos, as métricas acompanham números ao longo do tempo, como latência e uso de memória, e os traces seguem o caminho de uma requisição por vários serviços. Com esses dados, a equipe identifica gargalos, descobre a causa de uma degradação e configura alertas para ser avisada antes que os usuários percebam o problema.

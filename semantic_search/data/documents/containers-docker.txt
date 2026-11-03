@@ -1,0 +1,3 @@
+Containers e Docker
+
+Um container empacota uma aplicação junto com tudo de que ela precisa para funcionar: bibliotecas, ambiente de execução e arquivos de configuração. Esse pacote, chamado de imagem, se comporta de forma idêntica no notebook de quem desenvolve, no servidor de testes e em produção, o que elimina o clássico "na minha máquina funciona". Diferente de uma máquina virtual, o container compartilha o núcleo do sistema operacional hospedeiro, por isso inicia em segundos e consome menos recursos. O Docker popularizou essa tecnologia com o Dockerfile, um arquivo que descreve passo a passo como construir a imagem.

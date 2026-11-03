@@ -1,0 +1,3 @@
+Segurança web: injeção de SQL e XSS
+
+Na injeção de SQL, um atacante digita em um campo de formulário um trecho de comando que, ao ser concatenado à consulta, faz o banco executar algo que o desenvolvedor não previu, como listar todos os usuários ou apagar tabelas. A defesa principal é usar consultas parametrizadas, que tratam a entrada sempre como dado e nunca como código. O XSS é um problema parecido no navegador: scripts maliciosos inseridos em páginas são executados na máquina de outras pessoas. A proteção é validar as entradas e escapar tudo o que é exibido na tela.

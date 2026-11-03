@@ -1,0 +1,3 @@
+Orquestração de containers com Kubernetes
+
+Quando uma aplicação é dividida em dezenas de containers, alguém precisa decidir onde cada um executa, reiniciar os que falham e distribuir o tráfego entre eles. O Kubernetes cumpre esse papel: agenda os containers em um conjunto de máquinas, aumenta ou reduz o número de réplicas conforme a carga e faz atualizações graduais sem derrubar o serviço. A configuração é declarativa: você descreve o estado desejado e o sistema trabalha continuamente para alcançá-lo.

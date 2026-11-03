@@ -1,0 +1,3 @@
+Modelos de linguagem e RAG
+
+Um modelo de linguagem de grande porte gera texto prevendo a próxima palavra, mas só conhece o que viu no treinamento e pode inventar respostas com muita confiança, as chamadas alucinações. A geração aumentada por recuperação, ou RAG, reduz esse problema: antes de responder, o sistema busca trechos relevantes em uma base de documentos da própria organização e os entrega ao modelo como contexto. Assim a resposta se apoia em fontes atuais e verificáveis, sem precisar treinar o modelo de novo.

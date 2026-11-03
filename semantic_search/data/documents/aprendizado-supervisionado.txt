@@ -1,0 +1,3 @@
+Aprendizado de máquina supervisionado
+
+No aprendizado supervisionado, o algoritmo recebe exemplos já rotulados, como e-mails marcados como spam ou não spam, e aprende a relação entre as características dos dados e a resposta esperada. Depois de treinado, consegue prever o rótulo de dados novos. Quando a resposta é uma categoria, o problema é de classificação; quando é um número, como o preço de um imóvel, é de regressão. O maior risco é o sobreajuste, em que o modelo decora os exemplos de treino e erra em dados inéditos, por isso se reserva uma parte dos dados para validação.

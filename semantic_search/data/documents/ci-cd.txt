@@ -1,0 +1,3 @@
+Integração e entrega contínuas (CI/CD)
+
+Em um pipeline de integração contínua, cada alteração enviada ao repositório dispara uma sequência automática: instalar dependências, rodar a análise de código, executar os testes e gerar o pacote da aplicação. Se alguma etapa falha, a mudança é barrada antes de chegar à branch principal. A entrega contínua estende o processo publicando automaticamente a versão aprovada em um ambiente de homologação ou de produção, o que reduz erros manuais e encurta o tempo entre escrever o código e colocá-lo no ar.
